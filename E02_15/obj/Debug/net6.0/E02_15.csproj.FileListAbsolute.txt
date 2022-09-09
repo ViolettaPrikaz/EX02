@@ -1,0 +1,15 @@
+C:\Users\YP\Desktop\2c\Ex02\E02_15\bin\Debug\net6.0\E02_15.exe
+C:\Users\YP\Desktop\2c\Ex02\E02_15\bin\Debug\net6.0\E02_15.deps.json
+C:\Users\YP\Desktop\2c\Ex02\E02_15\bin\Debug\net6.0\E02_15.runtimeconfig.json
+C:\Users\YP\Desktop\2c\Ex02\E02_15\bin\Debug\net6.0\E02_15.dll
+C:\Users\YP\Desktop\2c\Ex02\E02_15\bin\Debug\net6.0\E02_15.pdb
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.csproj.AssemblyReference.cache
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.AssemblyInfoInputs.cache
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.AssemblyInfo.cs
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.csproj.CoreCompileInputs.cache
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.dll
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\refint\E02_15.dll
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.pdb
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\E02_15.genruntimeconfig.cache
+C:\Users\YP\Desktop\2c\Ex02\E02_15\obj\Debug\net6.0\ref\E02_15.dll
